@@ -6,3 +6,4 @@ print(a)
 b=20
 print(b)
 print('addition is ',(a+b))
+
